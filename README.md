@@ -8,3 +8,5 @@
 - Connect:
   - Telegram: [@sabhya05](https://t.me/sabhya05)
   - Email: [sabhrajmeh05@gmail.com](mailto:sabhrajmeh05@gmail.com)
+
+<img src="https://raw.githubusercontent.com/5h4rrK/5h4rrK/output/snake.svg" alt="Snake animation" />
