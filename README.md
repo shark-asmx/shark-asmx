@@ -3,7 +3,7 @@
 - 🔍 DFIR @ [bi0s](https://github.com/teambi0s) 
 - 💼 Contributions:
   - Crafting **Pattern Files** for [ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns)
-- Blog : [5h4rrrk](https://5h4rrk.github.io/posts/)
+- Blog : [5h4rrk](https://5h4rrk.github.io/posts/)
 - Connect:
   - Telegram: [@sabhya05](https://t.me/sabhya05)
   - Email: [sabhrajmeh05@gmail.com](mailto:sabhrajmeh05@gmail.com)
