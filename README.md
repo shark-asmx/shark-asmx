@@ -8,7 +8,7 @@ Besides these, I also contribute to open-source projects and enjoy working with 
 - [***010Editor Templates***](https://www.sweetscape.com/010editor/repository/scripts/) – *Created binary template files*
 
 ### ⚡     Languages
-**C/C++**, **Python**, **Golang**, **Assembly (x86-64)**, **Java**
+*C/C++*, *Python*, *Golang*, *Assembly*, *Java*
 
 ### Blog
 I occasionally share my technical thoughts through: [***5h4rrk.github.io***](https://5h4rrk.github.io/posts/)
