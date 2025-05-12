@@ -1,16 +1,22 @@
-## 👋 Hi, I’m Sabhya Raj Mehta  
+## 💫 About Me
 
-🧩 Exploring **Windows Internals** and **DFIR**
+Hi, I’m ***Sabhya Raj Mehta*** aka *5h4rrK*. I focus on ***Windows Internals*** and ***Tools development***.
 
-🔍 DFIR @ [bi0s](https://github.com/teambi0s)
+Besides these, I also contribute to open-source projects and enjoy working with file formats and parsers. A few of my contributions include:
 
-💼 Contributor to [ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) — developing pattern files for binary analysis
+- [***ImHex-Patterns***](https://github.com/WerWolv/ImHex-Patterns) – *Developing pattern files for binary analysis*  
+- [***010Editor Templates***](https://www.sweetscape.com/010editor/repository/scripts/) – *Created binary template files*
 
-🛠️ Passionate about **Tools Development** using **Python**, **C/C++**, and **Golang**
+### ⚡     Languages
+**C/C++**, **Python**, **Golang**, **Assembly (x86-64)**, **Java**
 
-📝 I write about my learning at: [5h4rrk.github.io](https://5h4rrk.github.io/posts/)
+### Blog
+I occasionally share my technical thoughts through: [***5h4rrk.github.io***](https://5h4rrk.github.io/posts/)
 
-📬 Connect with me:  
+### 🚧 Current Project
++ ***[DbgExt](https://github.com/5h4rrk/DbgExt)*** – Custom WinDbg Extension for kernel debugging and dump analysis.
+
+📬 Feel free to connect with me:  
 - Telegram: [@sabhya05](https://t.me/sabhya05)  
 - Email: [sabhrajmeh05@gmail.com](mailto:sabhrajmeh05@gmail.com)
 
