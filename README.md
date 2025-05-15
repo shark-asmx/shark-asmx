@@ -14,7 +14,7 @@ Besides these, I also contribute to open-source projects and enjoy working with 
 I occasionally share my technical thoughts through: [***5h4rrk.github.io***](https://5h4rrk.github.io/posts/)
 
 ### 🚧 Current Project
-+ ***[DbgExt](https://github.com/5h4rrk/DbgExt)*** – Custom WinDbg Extension for kernel debugging and dump analysis.
++ ***[XDbgTrace](https://github.com/5h4rrk/XDbgTrace)*** – Custom WinDbg Extension for kernel debugging and dump analysis.
 
 📬 Feel free to connect with me:  
 - Telegram: [@sabhya05](https://t.me/sabhya05)  
