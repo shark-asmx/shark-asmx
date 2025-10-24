@@ -1,11 +1,6 @@
 ## 💫 About Me
 
-Hi, I’m ***Sabhya Raj Mehta*** aka **shark-asmx**, *5h4rrK*. I focus on ***Windows Internals*** and ***Tools development***.
-
-Besides these, I also contribute to open-source projects and enjoy working with file formats and parsers. 
-
-### ⚡     Languages
-*C/C++*, *Python*, *Golang*, *Assembly*, *Java*
+Hi, I’m ***Sabhya Raj Mehta*** aka **shark-asmx**, *5h4rrK*. 
 
 ### Blog
 I occasionally share my technical thoughts through: [***shark-asmx.github.io***](https://shark-asmx.github.io/posts/)
