@@ -7,7 +7,6 @@ I occasionally share my technical thoughts through: [***shark-asmx.github.io***]
 
 📬 Feel free to connect with me:  
 - Telegram: [@sabhya05](https://t.me/sabhya05)  
-- Email: [sabhrajmeh05@gmail.com](mailto:sabhrajmeh05@gmail.com)
 
 <br/>
 
