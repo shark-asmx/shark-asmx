@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-Hi, I’m ***Sabhya Raj Mehta*** aka **shark-asmx**, *5h4rrK*. 
+Hi, I’m ***Sabhya*** aka **shark-asmx**, *5h4rrK*. 
 
 ### Blog
 Typing Randomly => [***shark-asmx.github.io***](https://shark-asmx.github.io/posts/)
