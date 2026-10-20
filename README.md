@@ -1,9 +1,9 @@
 ## 💫 About Me
 
-Hi, I’m ***Sabhya*** aka **shark-asmx**, *5h4rrK*. 
+Hey, I'm Sabhya aka **ptrshark** (formerly **5h4rrK**)
 
 ### Blog
-Typing Randomly => [***shark-asmx.github.io***](https://shark-asmx.github.io/posts/)
+Typing Randomly => [***ptrshark.github.io***](https://ptrshark.github.io/posts/)
 
 📬 Feel free to connect with me:  
 - Telegram: [@sabhya05](https://t.me/sabhya05)  
